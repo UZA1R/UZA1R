@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm
 
-<img src="https://raw.githubusercontent.com/UZA1R/UZA1R/master/asset/Github_ice.png" alt="Banner">
+<img src="https://raw.githubusercontent.com/UZA1R/UZA1R/master/asset/git_h.png" alt="Banner">
 I'm a passionate Android application developer, creating meaningful, pragmatic applications that brings bundle of happiness to my users. 
 I have hands on expertise on applications from banking to e-commerce sector.
 
